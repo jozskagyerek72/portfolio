@@ -1,4 +1,5 @@
 import { about } from "./about.js";
+import { projects } from "./projects.js";
 
 
 const routes = 
@@ -29,4 +30,5 @@ async function loadPage(url, domObj){
     domObj.innerHTML=html
     console.log(url);
     if(url=="about.html") about()
+    if(url=="projects.html") projects()
 }
