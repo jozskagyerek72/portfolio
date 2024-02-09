@@ -1,5 +1,6 @@
 import { about } from "./about.js";
 
+
 const routes = 
 {
     "home" : "home.html",
@@ -26,5 +27,6 @@ async function loadPage(url, domObj){
     const response = await fetch(url)
     const html = await response.text()
     domObj.innerHTML=html
+    console.log(url);
     if(url=="about.html") about()
 }
