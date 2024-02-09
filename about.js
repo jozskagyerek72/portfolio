@@ -22,7 +22,7 @@ export const about = ()=>{
             parent.appendChild(nDiv)
         }
 
-        document.body.appendChild(parent)
+        document.querySelector("main").appendChild(parent)
 
         const panelsNodeList = document.querySelectorAll(".panel")
         panelsNodeList.forEach((item, index) => {
