@@ -8,4 +8,9 @@ export const projects = ()=>{
 
 function renderProjects(data){
     console.log(data);
+    data.forEach(item => {
+        const card = document.createElement("div")
+        card.classList.add("card")
+        
+    });
 }

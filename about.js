@@ -1,4 +1,4 @@
-const motto = ["ha", "meg", "kell", "akkor", "meg", "kell"]
+const motto = ["go", "hard", "or", "go", "home"]
 const images = [
     'https://curiousnatureshop.com/cdn/shop/products/image_12f7a3d9-3c33-42f7-b642-33e5bd87f3bc_1024x.heic?v=1648673351',
     'https://i.imgflip.com/83u9lw.jpg',
