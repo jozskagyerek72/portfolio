@@ -1,15 +1,15 @@
 const motto = ["go", "hard", "or", "go", "home"]
 const images = [
-    'https://curiousnatureshop.com/cdn/shop/products/image_12f7a3d9-3c33-42f7-b642-33e5bd87f3bc_1024x.heic?v=1648673351',
-    'https://i.imgflip.com/83u9lw.jpg',
+    'https://aquakristaly.hu/img/product_images/gN9AdLi7oWwn45wUH4jiTKxaB1kcm3egIhxeDm1d.png',
+    'https://evedd.hu/img/74418/5060896620145/500x500/5060896620145.webp?time=1694609207',
 
-    'https://pbs.twimg.com/profile_images/1651032754690072580/ocAJMfWx_400x400.jpg',
+    'https://secure.ce-tescoassets.com/assets/HU/265/5060896621265/ShotType1_540x540.jpg',
 
-    'https://preview.redd.it/eren-yeager-is-literally-me-im-a-sigma-lone-wolf-who-went-v0-cpgo0um99m3c1.jpg?width=360&format=pjpg&auto=webp&s=1400b15bff2bdf8d955e71485740147818e2b288',
+    'https://dydza6t6xitx6.cloudfront.net/ci-monster-mule-ginger-brew-energy-drink-53c162721485ac25.jpeg',
 
-    'https://1.bp.blogspot.com/-r9jgi56MYYs/TWxtCKqOR3I/AAAAAAAABAo/oJGg5MgPRq4/s1600/WerewolfInTheNight.jpg',
+    'https://cdn1.interspar.at/cachableservlets/articleImage.dam/hu/533302008/dt_sub.jpg',
 
-    'https://media.licdn.com/dms/image/C561BAQEcE7596VyBNg/company-background_10000/0/1645090551576/felegyhazipekseg_cover?e=2147483647&v=beta&t=7DzVmVowbx5b2u_wz05S61S4Rm1WFj6cIuk4hqEBgdw'
+    'https://assets.sainsburys-groceries.co.uk/gol/7785382/1/640x640.jpg'
 ]
 
 
