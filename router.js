@@ -4,7 +4,7 @@ import { projects } from "./projects.js";
 
 const routes = 
 {
-    "home" : "home.html",
+    "" : "home.html",
     "about" : "about.html",
     "projects" : "projects.html",
     "contact" : "contact.html"
